@@ -1,0 +1,101 @@
+product_id,product_name,category,selling_price
+1,Wheat Flour (Atta),Grocery,344
+2,Basmati Rice,Grocery,384
+3,Toor Dal,Grocery,192
+4,Moong Dal,Grocery,250
+5,Chana Dal,Grocery,152
+6,Sugar,Grocery,122
+7,Salt,Grocery,106
+8,Tea Powder,Beverages,240
+9,Coffee Powder,Beverages,158
+10,Cooking Oil,Other,136
+11,Mustard Oil,Other,21
+12,Ghee,Other,299
+13,Butter,Other,337
+14,Bread,Other,72
+15,Eggs,Other,245
+16,Milk,Beverages,358
+17,Curd,Other,392
+18,Paneer,Other,217
+19,Biscuits,Snacks,31
+20,Noodles,Other,450
+21,Pasta,Other,109
+22,Poha,Other,122
+23,Sooji,Other,116
+24,Maida,Other,477
+25,Detergent Powder,Household,227
+26,Detergent Bar,Household,60
+27,Bathing Soap,Personal Care,318
+28,Hand Wash,Other,227
+29,Shampoo,Personal Care,194
+30,Toothpaste,Personal Care,152
+31,Toothbrush,Personal Care,120
+32,Face Wash,Personal Care,310
+33,Floor Cleaner,Household,159
+34,Phenyl,Household,149
+35,Dishwashing Liquid,Other,325
+36,Chips,Snacks,57
+37,Namkeen,Snacks,471
+38,Chocolates,Snacks,22
+39,Juice,Beverages,487
+40,Soft Drink,Beverages,401
+41,Spices - Turmeric,Other,138
+42,Spices - Chilli Powder,Other,475
+43,Spices - Coriander Powder,Other,39
+44,Garam Masala,Other,426
+45,Pickles,Other,369
+46,Ketchup,Other,222
+47,Jam,Other,384
+48,Dry Fruits - Almonds,Other,159
+49,Dry Fruits - Cashews,Other,401
+50,Dry Fruits - Raisins,Other,388
+51,Frozen Peas,Frozen,149
+52,Frozen Paratha,Frozen,409
+53,Butter Milk,Beverages,322
+54,Tissue Paper,Other,240
+55,Aluminium Foil,Other,422
+56,Garbage Bags,Household,259
+57,Wheat Flour (Atta),Grocery,74
+58,Basmati Rice,Grocery,308
+59,Toor Dal,Grocery,136
+60,Moong Dal,Grocery,403
+61,Chana Dal,Grocery,62
+62,Sugar,Grocery,38
+63,Salt,Grocery,305
+64,Tea Powder,Beverages,397
+65,Coffee Powder,Beverages,190
+66,Cooking Oil,Other,164
+67,Mustard Oil,Other,176
+68,Ghee,Other,396
+69,Butter,Other,187
+70,Bread,Other,216
+71,Eggs,Other,50
+72,Milk,Beverages,391
+73,Curd,Other,497
+74,Paneer,Other,353
+75,Biscuits,Snacks,406
+76,Noodles,Other,63
+77,Pasta,Other,157
+78,Poha,Other,74
+79,Sooji,Other,300
+80,Maida,Other,119
+81,Detergent Powder,Household,55
+82,Detergent Bar,Household,163
+83,Bathing Soap,Personal Care,180
+84,Hand Wash,Other,253
+85,Shampoo,Personal Care,53
+86,Toothpaste,Personal Care,306
+87,Toothbrush,Personal Care,461
+88,Face Wash,Personal Care,435
+89,Floor Cleaner,Household,437
+90,Phenyl,Household,286
+91,Dishwashing Liquid,Other,466
+92,Chips,Snacks,272
+93,Namkeen,Snacks,356
+94,Chocolates,Snacks,412
+95,Juice,Beverages,39
+96,Soft Drink,Beverages,39
+97,Spices - Turmeric,Other,364
+98,Spices - Chilli Powder,Other,493
+99,Spices - Coriander Powder,Other,335
+100,Garam Masala,Other,153
