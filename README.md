@@ -59,8 +59,11 @@ Metrics used: RMSE, R², Accuracy.
 ---
 ## Resposibilities/Goals 
 Saksham - What is the estimated future spend of a customer for the next quarter/year based on their previous year's purchase patterns and store performance?
+
 Rohan - Analyze how local store inventory levels correlate with customer purchasing behavior and sales success.
+
 Mayank Bansal - Which customers are most likely to increase their spending if inventory availability improves top-selling products?
+
 Yash Dahiya - How much discount or promotional offers is a customer likely to receive based on their previous spending behavior and loyalty tier?
 
 ## Dashboard
